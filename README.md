@@ -12,8 +12,7 @@ The primary objective of this project is to develop and evaluate classification 
 Dataset
 
 The dataset used for this project is available for download at the following link:
-Amazon Alexa Reviews Dataset
-This dataset contains customer reviews for Amazon Alexa products, along with several features that can be used to train machine learning models for sentiment prediction.
+[Amazon Alexa Reviews Dataset](https://drive.google.com/file/d/1qBgRI5Vav-uAj-bA5myBwI4zMfnPZgwQ/view?usp=share_link)
 
 Details of Features:
 
